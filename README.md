@@ -111,7 +111,7 @@ task list:todo
 📄 Estrutura do JSON
 
 As tarefas são armazenadas no arquivo tasks.json:
-
+```
 [
   {
     "id": 1,
@@ -121,12 +121,13 @@ As tarefas são armazenadas no arquivo tasks.json:
     "updatedAt": "2026-01-01T13:00:00.000Z"
   }
 ]
-
+```
 Status possíveis:
+```
 0 → TODO
 1 → IN_PROGRESS
 2 → DONE
-
+```
 ⚠️ Regras e validações
 IDs são gerados automaticamente
 Operações com IDs inválidos são tratadas
