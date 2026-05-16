@@ -27,15 +27,15 @@ task-tracker-cli/
 │
 ├── src/
 │   ├── models/
-│   │   └── task.ts
+│   │   └── task.model.ts
 │   │
 │   ├── services/
-│   │   └── taskService.ts
+│   │   └── task.service.ts
 │   │
 │   ├── utils/
-│   │   └── fileHandler.ts
+│   │   └── file.util.ts
 │   │
-│   └── cli.ts
+│   └── index.ts
 │
 ├── dist/
 ├── tasks.json
