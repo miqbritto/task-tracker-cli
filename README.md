@@ -22,6 +22,7 @@ TypeScript
 Módulo nativo fs (filesystem)
 
 📁 Estrutura do projeto
+```
 task-tracker-cli/
 │
 ├── src/
@@ -41,6 +42,7 @@ task-tracker-cli/
 ├── package.json
 ├── tsconfig.json
 └── README.md
+```
 
 ⚙️ Instalação
 # Clonar o repositório
