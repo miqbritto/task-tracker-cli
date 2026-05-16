@@ -149,6 +149,4 @@ Estruturação de projetos TypeScript
 Criação de CLI
 Boas práticas de organização de código
 
-📜 Licença
-
-MIT License
+https://roadmap.sh/projects/task-tracker
